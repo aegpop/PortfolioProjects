@@ -4,3 +4,4 @@ Collection of works for my portfolio.
 
 1. Supply Chain - In depth analysis of inventory control (Python & MS Power BI) - supply2.csv
 2. Car List - Analysis for a car inventory, including a view for sales (Python & SQL) - carsx.csv
+3. Coca Cola - Analysis for Coca Cola's revenue and product impact in the USA (MS Power BI) - cocacola.xlsx & cocacola.pbix
